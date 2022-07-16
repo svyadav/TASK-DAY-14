@@ -1,0 +1,49 @@
+body{
+    background-color: #cad2c5;
+}
+
+.navcolor{
+    background-color:#2f3448 !important;
+}
+
+.size{
+    width:3.2rem;
+}
+
+.letter-spacing{
+    letter-spacing:0.4rem;
+}
+
+::placeholder{
+   letter-spacing:0.4rem;
+   
+
+}
+
+#text{
+
+
+    outline: none;
+    border:none;
+    padding:0.6rem 1.4rem;
+
+}
+
+.color{
+    background-color:#2f3448
+}
+
+.square{
+    width:13rem;
+    height:13rem;
+}
+
+.square-big{
+    height:38%;
+    width:100%
+}
+
+.big{
+    height:40rem;
+    width:90%;
+}
